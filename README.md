@@ -1,4 +1,4 @@
-# counter_getx_example
+# getx_example
 
 A new Flutter project.
 

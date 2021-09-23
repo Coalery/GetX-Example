@@ -1,5 +1,5 @@
-name: counter_getx_example
-description: A new Flutter project.
+name: getx_example
+description: Example of GetX, package for state management of flutter.
 
 publish_to: "none"
 

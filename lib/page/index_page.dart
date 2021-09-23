@@ -1,10 +1,10 @@
-import 'package:counter_getx_example/controller/counter_controller.dart';
-import 'package:counter_getx_example/controller/person_controller.dart';
-import 'package:counter_getx_example/page/counter/async_counter_page.dart';
-import 'package:counter_getx_example/page/counter/counter_page.dart';
-import 'package:counter_getx_example/page/counter/counter_show_value_page.dart';
-import 'package:counter_getx_example/page/person/add_person_page.dart';
-import 'package:counter_getx_example/page/person/show_person_page.dart';
+import 'package:getx_example/controller/counter_controller.dart';
+import 'package:getx_example/controller/person_controller.dart';
+import 'package:getx_example/page/counter/async_counter_page.dart';
+import 'package:getx_example/page/counter/counter_page.dart';
+import 'package:getx_example/page/counter/counter_show_value_page.dart';
+import 'package:getx_example/page/person/add_person_page.dart';
+import 'package:getx_example/page/person/show_person_page.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

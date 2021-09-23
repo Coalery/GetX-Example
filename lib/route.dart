@@ -1,9 +1,9 @@
-import 'package:counter_getx_example/page/counter/async_counter_page.dart';
-import 'package:counter_getx_example/page/counter/counter_page.dart';
-import 'package:counter_getx_example/page/counter/counter_show_value_page.dart';
-import 'package:counter_getx_example/page/index_page.dart';
-import 'package:counter_getx_example/page/person/add_person_page.dart';
-import 'package:counter_getx_example/page/person/show_person_page.dart';
+import 'package:getx_example/page/counter/async_counter_page.dart';
+import 'package:getx_example/page/counter/counter_page.dart';
+import 'package:getx_example/page/counter/counter_show_value_page.dart';
+import 'package:getx_example/page/index_page.dart';
+import 'package:getx_example/page/person/add_person_page.dart';
+import 'package:getx_example/page/person/show_person_page.dart';
 import 'package:get/get.dart';
 
 // 라우트들을 정의한 리스트

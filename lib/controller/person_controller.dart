@@ -1,5 +1,5 @@
-import 'package:counter_getx_example/model/person.dart';
-import 'package:counter_getx_example/some_db.dart';
+import 'package:getx_example/model/person.dart';
+import 'package:getx_example/some_db.dart';
 import 'package:get/get.dart';
 
 // 이 경우, 상태는 모두 DB에 있기 때문에 여기서 관리할 부분은 없습니다.

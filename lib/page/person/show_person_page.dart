@@ -1,5 +1,5 @@
-import 'package:counter_getx_example/controller/person_controller.dart';
-import 'package:counter_getx_example/model/person.dart';
+import 'package:getx_example/controller/person_controller.dart';
+import 'package:getx_example/model/person.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

@@ -1,4 +1,4 @@
-import 'package:counter_getx_example/route.dart';
+import 'package:getx_example/route.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

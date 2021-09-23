@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.counter_getx_example">
+    package="com.example.getx_example">
    <application
-        android:label="counter_getx_example"
+        android:label="getx_example"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

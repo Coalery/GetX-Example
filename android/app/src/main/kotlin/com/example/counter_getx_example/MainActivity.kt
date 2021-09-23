@@ -1,4 +1,4 @@
-package com.example.counter_getx_example
+package com.example.getx_example
 
 import io.flutter.embedding.android.FlutterActivity
 
